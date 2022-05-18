@@ -1,1 +1,5 @@
-hi
+git init
+git add .
+git commit -m "hi"
+git remote add origin https://url-of-github-repo
+git push origin master or git push -f origin master
